@@ -14,16 +14,17 @@ reference to list of contacts. Junit ITs have been written to test the code.
 3. Some user input error cases are handled properly
 
 
+**How to Install**
 
 To get the executable jar please follow the below given steps
 
 1. Install maven
 
-2. execute command "mvn package"  from command line within root directory of CMgr app.
+2. execute command "mvn package"  from command line within root directory of ContactMgr app.
 
-3. Execute command "java -cp CMgr-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.cmgr.main.Main" on command line. 
+3. Execute command "java -cp ContactMgr-1.0.0-jar-with-dependencies.jar com.cmgr.main.Main" on command line. 
 
-4. If you follow step 1-2 then CMgr-0.0.1-SNAPSHOT-jar-with-dependencies.jar will be in target/ folder of CMgr app.
+4. If you follow step 1-2 then ContactMgr-1.0.0-jar-with-dependencies.jar will be in target/ folder of ContactMgr app.
 
 
 
