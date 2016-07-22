@@ -6,8 +6,11 @@ reference to list of contacts. Junit ITs have been written to test the code.
 
 
 **Extra Features**
+
 1. Searching based on last name and first name.
+
 2. Ranking of search result based on complete and partial matches
+
 3. Some user input error cases are handled properly
 
 
